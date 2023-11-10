@@ -2,14 +2,14 @@
 
 [ext_resource type="Script" path="res://Enemies/Wolf_Attack.gd" id="1"]
 [ext_resource type="Script" path="res://Enemies/Wolf_Die.gd" id="2"]
-[ext_resource type="Texture2D" uid="uid://bqsh70igbrqqe" path="res://Assets/wolf_idle.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://7jd67pgpwj2n" path="res://Assets/wolf_idle.png" id="3"]
 [ext_resource type="Script" path="res://StateMachine/StateMachine.gd" id="4"]
 [ext_resource type="Script" path="res://Enemies/Wolf_Move.gd" id="5"]
 [ext_resource type="Script" path="res://Enemies/Wolf_Idle.gd" id="6"]
 [ext_resource type="Script" path="res://Enemies/Wolf.gd" id="7"]
-[ext_resource type="Texture2D" uid="uid://bwccgybxuxyod" path="res://Assets/wolf_attack.png" id="8"]
-[ext_resource type="Texture2D" uid="uid://d00xd4q1d1pl4" path="res://Assets/wolf_move.png" id="9"]
-[ext_resource type="Texture2D" uid="uid://cnn3dm1mpsxfm" path="res://Assets/wolf_die.png" id="10"]
+[ext_resource type="Texture2D" uid="uid://cnm6gqqp7l5dv" path="res://Assets/wolf_attack.png" id="8"]
+[ext_resource type="Texture2D" uid="uid://yyccyki3lig7" path="res://Assets/wolf_move.png" id="9"]
+[ext_resource type="Texture2D" uid="uid://1yly2eq7hdg7" path="res://Assets/wolf_die.png" id="10"]
 
 [sub_resource type="AtlasTexture" id="67"]
 atlas = ExtResource("8")
